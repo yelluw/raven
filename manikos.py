@@ -5,8 +5,6 @@ Script automates renewing letsencrypt certs
 Python2.7
 
 This was copied from https://manikos.github.io/webfaction-letsencrypt-django
-
-It is being used 
 """
 
 
